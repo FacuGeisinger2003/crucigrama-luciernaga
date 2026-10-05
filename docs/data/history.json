@@ -1,25 +1,4 @@
 {
-  "2026-09-04": [
-    "MONTEVIDEO",
-    "PATAGONIA",
-    "SANMARTIN",
-    "INTERNET",
-    "PACIFICO",
-    "DESIERTO",
-    "ARCOIRIS",
-    "BOMBILLA",
-    "CARNAVAL",
-    "URUGUAY",
-    "NEPTUNO",
-    "BRUJULA",
-    "ITALIA",
-    "SANGRE",
-    "TOKIO",
-    "PANDA",
-    "PASTA",
-    "MURGA",
-    "INDIA"
-  ],
   "2026-09-05": [
     "CARPINCHO",
     "ATLANTICO",
@@ -643,5 +622,25 @@
     "TERMO",
     "MONO",
     "GOLF"
+  ],
+  "2026-10-05": [
+    "INDEPENDENCIA",
+    "OLIMPIADAS",
+    "TELEVISION",
+    "TERREMOTO",
+    "VIKINGOS",
+    "CARNAVAL",
+    "MEDALLA",
+    "CEREBRO",
+    "CARBONO",
+    "GAUCHO",
+    "CANCHA",
+    "FUTBOL",
+    "ANDES",
+    "ALPES",
+    "SELVA",
+    "FUEGO",
+    "ROCK",
+    "ORO"
   ]
 }
