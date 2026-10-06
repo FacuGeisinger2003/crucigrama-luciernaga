@@ -1,25 +1,4 @@
 {
-  "2026-09-05": [
-    "CARPINCHO",
-    "ATLANTICO",
-    "ORQUESTA",
-    "NACIONAL",
-    "VIKINGOS",
-    "CEREBRO",
-    "CABALLO",
-    "CUCHARA",
-    "CARACAS",
-    "MEDALLA",
-    "GALLINA",
-    "HIGADO",
-    "LLUVIA",
-    "RAMBLA",
-    "ALPES",
-    "ANDES",
-    "FUEGO",
-    "PUMA",
-    "ORO"
-  ],
   "2026-09-06": [
     "PUNTADELESTE",
     "CLEOPATRA",
@@ -642,5 +621,26 @@
     "FUEGO",
     "ROCK",
     "ORO"
+  ],
+  "2026-10-06": [
+    "PUNTADELESTE",
+    "VENEZUELA",
+    "CLEOPATRA",
+    "BOMBILLA",
+    "CUCHILLO",
+    "PACIFICO",
+    "CAMINITO",
+    "GUITARRA",
+    "TORTUGA",
+    "TENEDOR",
+    "CORAZON",
+    "BOGOTA",
+    "HIERRO",
+    "OTONO",
+    "COLON",
+    "TOKIO",
+    "INDIA",
+    "RANA",
+    "PUMA"
   ]
 }
