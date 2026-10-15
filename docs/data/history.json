@@ -1,25 +1,4 @@
 {
-  "2026-09-14": [
-    "MURCIELAGO",
-    "TORTAFRITA",
-    "SERPIENTE",
-    "GUATEMALA",
-    "ALEMANIA",
-    "ELCAIRO",
-    "CAPITAL",
-    "VENTANA",
-    "MARATON",
-    "SATURNO",
-    "OCEANO",
-    "TENIS",
-    "BARCO",
-    "VOLEY",
-    "ROBOT",
-    "ABEJA",
-    "TERO",
-    "BUHO",
-    "SOL"
-  ],
   "2026-09-15": [
     "TELEFONO",
     "INTERNET",
@@ -642,5 +621,26 @@
     "LUNA",
     "ROMA",
     "SOL"
+  ],
+  "2026-10-15": [
+    "BARILOCHE",
+    "GUATEMALA",
+    "SERPIENTE",
+    "INTERNET",
+    "EMPANADA",
+    "EINSTEIN",
+    "ESTRELLA",
+    "ECUADOR",
+    "BRUJULA",
+    "ARTIGAS",
+    "SATURNO",
+    "OCEANO",
+    "RAMBLA",
+    "BRASIL",
+    "SUSHI",
+    "MURGA",
+    "RUGBY",
+    "PASTA",
+    "PERU"
   ]
 }
