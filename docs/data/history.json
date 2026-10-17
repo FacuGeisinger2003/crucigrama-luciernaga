@@ -1,25 +1,4 @@
 {
-  "2026-09-16": [
-    "MEDITERRANEO",
-    "ARCHIPIELAGO",
-    "COCODRILO",
-    "OBELISCO",
-    "BALLENA",
-    "COLONIA",
-    "BATERIA",
-    "COLISEO",
-    "CONEJO",
-    "MEXICO",
-    "CANADA",
-    "PUERTA",
-    "PARIS",
-    "BOXEO",
-    "CEBRA",
-    "NIEVE",
-    "MAPA",
-    "ISLA",
-    "VACA"
-  ],
   "2026-09-17": [
     "TELEVISION",
     "PRIMAVERA",
@@ -641,5 +620,26 @@
     "RUSIA",
     "CUBA",
     "MAPA"
+  ],
+  "2026-10-17": [
+    "ARCHIPIELAGO",
+    "FOTOSINTESIS",
+    "MEDITERRANEO",
+    "TORTAFRITA",
+    "PARAGUAY",
+    "CHORIPAN",
+    "DESIERTO",
+    "BATERIA",
+    "OXIGENO",
+    "COLISEO",
+    "BALLENA",
+    "COLONIA",
+    "EGIPTO",
+    "ITALIA",
+    "CANADA",
+    "CONEJO",
+    "LLUVIA",
+    "CEBRA",
+    "VACA"
   ]
 }
