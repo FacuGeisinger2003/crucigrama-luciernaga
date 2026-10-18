@@ -1,25 +1,4 @@
 {
-  "2026-09-17": [
-    "TELEVISION",
-    "PRIMAVERA",
-    "ANTARTIDA",
-    "PENINSULA",
-    "CANDOMBE",
-    "CARBONO",
-    "SAHARA",
-    "GRECIA",
-    "HABANA",
-    "ESPANA",
-    "PIANO",
-    "CHILE",
-    "QUITO",
-    "PLATA",
-    "SELVA",
-    "CAFE",
-    "TACO",
-    "PATO",
-    "MARTE"
-  ],
   "2026-09-18": [
     "INDEPENDENCIA",
     "OLIMPIADAS",
@@ -641,5 +620,26 @@
     "LLUVIA",
     "CEBRA",
     "VACA"
+  ],
+  "2026-10-18": [
+    "ANTARTIDA",
+    "BOLIVIA",
+    "ELCAIRO",
+    "ARQUERO",
+    "MARATON",
+    "BEISBOL",
+    "ESPEJO",
+    "CONDOR",
+    "PUERTA",
+    "COMETA",
+    "KOALA",
+    "NIEVE",
+    "VOLEY",
+    "TENIS",
+    "MESSI",
+    "QUESO",
+    "PANDA",
+    "CAFE",
+    "TACO"
   ]
 }
