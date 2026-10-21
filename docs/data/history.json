@@ -1,25 +1,4 @@
 {
-  "2026-09-20": [
-    "MONTEVIDEO",
-    "ATLANTICO",
-    "TERREMOTO",
-    "DESIERTO",
-    "ORQUESTA",
-    "VIKINGOS",
-    "PACIFICO",
-    "CARNAVAL",
-    "BOMBILLA",
-    "MEDALLA",
-    "CARACAS",
-    "BOGOTA",
-    "CANCHA",
-    "GAUCHO",
-    "FUTBOL",
-    "ALPES",
-    "FUEGO",
-    "ANDES",
-    "ORO"
-  ],
   "2026-09-21": [
     "PUNTADELESTE",
     "CLEOPATRA",
@@ -640,5 +619,26 @@
     "TERMO",
     "ROMA",
     "AVION"
+  ],
+  "2026-10-21": [
+    "PUNTADELESTE",
+    "OLIMPIADAS",
+    "TELEVISION",
+    "CLEOPATRA",
+    "TERREMOTO",
+    "PATAGONIA",
+    "BOMBILLA",
+    "CUCHILLO",
+    "VIKINGOS",
+    "CARBONO",
+    "MEXICO",
+    "CANCHA",
+    "CUMBIA",
+    "FUTBOL",
+    "OTONO",
+    "INDIA",
+    "CEIBO",
+    "LIMA",
+    "RANA"
   ]
 }
