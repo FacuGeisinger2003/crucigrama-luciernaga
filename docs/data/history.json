@@ -1,25 +1,4 @@
 {
-  "2026-09-28": [
-    "CERVANTES",
-    "SANTIAGO",
-    "PARAGUAS",
-    "ESTRELLA",
-    "ASUNCION",
-    "AMAZONAS",
-    "INVIERNO",
-    "BANDERA",
-    "IMPERIO",
-    "MOCHILA",
-    "TIBURON",
-    "VERANO",
-    "HELADO",
-    "BERLIN",
-    "ARROZ",
-    "CHINA",
-    "TANGO",
-    "OVEJA",
-    "LUNA"
-  ],
   "2026-09-29": [
     "MURCIELAGO",
     "TORTAFRITA",
@@ -641,5 +620,26 @@
     "SALSA",
     "TERO",
     "TREN"
+  ],
+  "2026-10-29": [
+    "ESQUELETO",
+    "CERVANTES",
+    "ATLANTICO",
+    "INVIERNO",
+    "SANTIAGO",
+    "ASUNCION",
+    "MILANESA",
+    "AMAZONAS",
+    "HIMALAYA",
+    "VERANO",
+    "ATENAS",
+    "RELOJ",
+    "TANGO",
+    "CHINA",
+    "ZORRO",
+    "BARCO",
+    "ABEJA",
+    "LUNA",
+    "SOL"
   ]
 }
