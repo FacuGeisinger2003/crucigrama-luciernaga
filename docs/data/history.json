@@ -1,25 +1,4 @@
 {
-  "2026-10-01": [
-    "ARCHIPIELAGO",
-    "MEDITERRANEO",
-    "CENTENARIO",
-    "BALLENA",
-    "BATERIA",
-    "COLISEO",
-    "ELCAIRO",
-    "COLONIA",
-    "PUERTA",
-    "MEXICO",
-    "CONEJO",
-    "CANADA",
-    "CEBRA",
-    "BOXEO",
-    "ASADO",
-    "CUBA",
-    "MAPA",
-    "VACA",
-    "VOLEY"
-  ],
   "2026-10-02": [
     "FOTOSINTESIS",
     "TORTAFRITA",
@@ -641,5 +620,26 @@
     "SELVA",
     "MAPA",
     "PERU"
+  ],
+  "2026-11-01": [
+    "MEDITERRANEO",
+    "ARCHIPIELAGO",
+    "CHORIPAN",
+    "PARAGUAY",
+    "EMPANADA",
+    "DESIERTO",
+    "EINSTEIN",
+    "BALLENA",
+    "COLONIA",
+    "COLISEO",
+    "SATURNO",
+    "LLUVIA",
+    "OCEANO",
+    "AFRICA",
+    "CANADA",
+    "CEBRA",
+    "RUSIA",
+    "VACA",
+    "CUBA"
   ]
 }
