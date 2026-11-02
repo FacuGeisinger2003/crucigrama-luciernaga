@@ -1,25 +1,4 @@
 {
-  "2026-10-02": [
-    "FOTOSINTESIS",
-    "TORTAFRITA",
-    "ELEFANTE",
-    "CANDOMBE",
-    "DESIERTO",
-    "ARQUERO",
-    "VENTANA",
-    "COLONIA",
-    "OXIGENO",
-    "LLUVIA",
-    "CONDOR",
-    "CUMBIA",
-    "ESPEJO",
-    "EGIPTO",
-    "KOALA",
-    "PANDA",
-    "MESSI",
-    "NILO",
-    "LIMA"
-  ],
   "2026-10-03": [
     "ANTARTIDA",
     "PRIMAVERA",
@@ -641,5 +620,25 @@
     "RUSIA",
     "VACA",
     "CUBA"
+  ],
+  "2026-11-02": [
+    "FOTOSINTESIS",
+    "ARTIGAS",
+    "ARQUERO",
+    "OXIGENO",
+    "PENAROL",
+    "BASQUET",
+    "MOCHILA",
+    "MARATON",
+    "CONEJO",
+    "ESPEJO",
+    "RAMBLA",
+    "QUESO",
+    "MURGA",
+    "PANDA",
+    "KOALA",
+    "TACO",
+    "CAFE",
+    "VOLEY"
   ]
 }
