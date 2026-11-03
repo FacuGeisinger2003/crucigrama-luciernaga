@@ -1,24 +1,4 @@
 {
-  "2026-10-03": [
-    "ANTARTIDA",
-    "PRIMAVERA",
-    "LONDRES",
-    "BEISBOL",
-    "CAPITAL",
-    "BOLIVIA",
-    "SAHARA",
-    "COMETA",
-    "JAGUAR",
-    "PARIS",
-    "CEIBO",
-    "HIMNO",
-    "NIEVE",
-    "QUESO",
-    "CAFE",
-    "TACO",
-    "ISLA",
-    "MARTE"
-  ],
   "2026-10-04": [
     "DINOSAURIO",
     "PATAGONIA",
@@ -640,5 +620,26 @@
     "TACO",
     "CAFE",
     "VOLEY"
+  ],
+  "2026-11-03": [
+    "MARDELPLATA",
+    "CONTINENTE",
+    "INGLATERRA",
+    "BICICLETA",
+    "GALLINA",
+    "HORMIGA",
+    "MEDALLA",
+    "FRANCIA",
+    "VENTANA",
+    "TIERRA",
+    "GARDEL",
+    "OVEJA",
+    "NIEVE",
+    "MURGA",
+    "LIBRO",
+    "ZORRO",
+    "COLON",
+    "VACA",
+    "SOL"
   ]
 }
