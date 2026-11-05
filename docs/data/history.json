@@ -1,24 +1,4 @@
 {
-  "2026-10-05": [
-    "INDEPENDENCIA",
-    "OLIMPIADAS",
-    "TELEVISION",
-    "TERREMOTO",
-    "VIKINGOS",
-    "CARNAVAL",
-    "MEDALLA",
-    "CEREBRO",
-    "CARBONO",
-    "GAUCHO",
-    "CANCHA",
-    "FUTBOL",
-    "ANDES",
-    "ALPES",
-    "SELVA",
-    "FUEGO",
-    "ROCK",
-    "ORO"
-  ],
   "2026-10-06": [
     "PUNTADELESTE",
     "VENEZUELA",
@@ -641,5 +621,26 @@
     "CHILE",
     "TOKIO",
     "TERMO"
+  ],
+  "2026-11-05": [
+    "PUNTADELESTE",
+    "AUSTRALIA",
+    "TERREMOTO",
+    "PATAGONIA",
+    "COCODRILO",
+    "BOMBILLA",
+    "CAMINITO",
+    "MARIPOSA",
+    "INTERNET",
+    "CANCION",
+    "ELCAIRO",
+    "CARBONO",
+    "CUMBIA",
+    "BERLIN",
+    "FUTBOL",
+    "CONDOR",
+    "OTONO",
+    "GOLF",
+    "ROMA"
   ]
 }
