@@ -1,25 +1,4 @@
 {
-  "2026-10-09": [
-    "SHAKESPEARE",
-    "BUENOSAIRES",
-    "COMPUTADORA",
-    "AUSTRALIA",
-    "NACIONAL",
-    "CAMPEON",
-    "CHIVITO",
-    "CANGURO",
-    "CUCHARA",
-    "ALFAJOR",
-    "IGUAZU",
-    "HABANA",
-    "CARIBE",
-    "PIZZA",
-    "MOSCU",
-    "NANDU",
-    "PAMPA",
-    "PATO",
-    "PINGUINO"
-  ],
   "2026-10-10": [
     "INDEPENDENCIA",
     "MARACANAZO",
@@ -642,5 +621,24 @@
     "NANDU",
     "MIEL",
     "ISLA"
+  ],
+  "2026-11-09": [
+    "NATACION",
+    "NACIONAL",
+    "PINGUINO",
+    "ESTADIO",
+    "CUCHARA",
+    "CAMPEON",
+    "LONDRES",
+    "SEMANA",
+    "VOLCAN",
+    "MARTE",
+    "MOSCU",
+    "PIZZA",
+    "LIMA",
+    "NILO",
+    "BUHO",
+    "LEON",
+    "ROCK"
   ]
 }
