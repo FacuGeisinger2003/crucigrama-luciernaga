@@ -1,25 +1,4 @@
 {
-  "2026-10-10": [
-    "INDEPENDENCIA",
-    "MARACANAZO",
-    "PRIMAVERA",
-    "PENINSULA",
-    "CANDOMBE",
-    "TIBURON",
-    "CORAZON",
-    "TIERRA",
-    "SEMANA",
-    "ABEJA",
-    "BOXEO",
-    "FUEGO",
-    "ASADO",
-    "ANDES",
-    "ROBOT",
-    "NILO",
-    "MATE",
-    "LEON",
-    "ROCK"
-  ],
   "2026-10-11": [
     "CHIMICHURRI",
     "CALENDARIO",
@@ -640,5 +619,26 @@
     "BUHO",
     "LEON",
     "ROCK"
+  ],
+  "2026-11-10": [
+    "COMPUTADORA",
+    "TELEVISION",
+    "PENINSULA",
+    "CASTILLO",
+    "NAPOLEON",
+    "GALAXIA",
+    "JUPITER",
+    "ESPANA",
+    "SAHARA",
+    "VIENTO",
+    "JAPON",
+    "ALPES",
+    "TENIS",
+    "URANO",
+    "VINO",
+    "PATO",
+    "MONO",
+    "ASADO",
+    "JAZZ"
   ]
 }
