@@ -1,25 +1,4 @@
 {
-  "2026-10-11": [
-    "CHIMICHURRI",
-    "CALENDARIO",
-    "CONTINENTE",
-    "INGLATERRA",
-    "ACONCAGUA",
-    "CHOCOLATE",
-    "ARGENTINA",
-    "HIMALAYA",
-    "CASTILLO",
-    "ALEMANIA",
-    "ORQUESTA",
-    "NEPTUNO",
-    "GALAXIA",
-    "ESPANA",
-    "ATENAS",
-    "QUITO",
-    "TIGRE",
-    "AVION",
-    "JAPON"
-  ],
   "2026-10-12": [
     "HAMBURGUESA",
     "SANMARTIN",
@@ -640,5 +619,26 @@
     "MONO",
     "ASADO",
     "JAZZ"
+  ],
+  "2026-11-11": [
+    "INDEPENDENCIA",
+    "CHIMICHURRI",
+    "HIDROGENO",
+    "ACONCAGUA",
+    "CHOCOLATE",
+    "PRIMAVERA",
+    "ALEMANIA",
+    "ORQUESTA",
+    "ARBITRO",
+    "EUROPA",
+    "MEXICO",
+    "MADRID",
+    "PULMON",
+    "HIGADO",
+    "DELFIN",
+    "GAUCHO",
+    "QUITO",
+    "MATE",
+    "ASIA"
   ]
 }
