@@ -1,24 +1,4 @@
 {
-  "2026-10-14": [
-    "MARDELPLATA",
-    "ESQUELETO",
-    "SANTIAGO",
-    "INVIERNO",
-    "PORTUGAL",
-    "ARCOIRIS",
-    "MILANESA",
-    "PENAROL",
-    "MOCHILA",
-    "VERANO",
-    "AFRICA",
-    "BARCO",
-    "ZORRO",
-    "TANGO",
-    "CHINA",
-    "LUNA",
-    "ROMA",
-    "SOL"
-  ],
   "2026-10-15": [
     "BARILOCHE",
     "GUATEMALA",
@@ -641,5 +621,26 @@
     "TERO",
     "TREN",
     "AGUA"
+  ],
+  "2026-11-14": [
+    "TORTAFRITA",
+    "OLIMPIADAS",
+    "ATLANTICO",
+    "PIRAMIDES",
+    "COLOMBIA",
+    "BANDERA",
+    "CORAZON",
+    "TORTUGA",
+    "IGUAZU",
+    "ATENAS",
+    "HELADO",
+    "ARROZ",
+    "RELOJ",
+    "PARIS",
+    "SALSA",
+    "TIGRE",
+    "PUMA",
+    "LUNA",
+    "CUCHILLO"
   ]
 }
