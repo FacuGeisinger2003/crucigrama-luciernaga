@@ -1,25 +1,4 @@
 {
-  "2026-10-17": [
-    "ARCHIPIELAGO",
-    "FOTOSINTESIS",
-    "MEDITERRANEO",
-    "TORTAFRITA",
-    "PARAGUAY",
-    "CHORIPAN",
-    "DESIERTO",
-    "BATERIA",
-    "OXIGENO",
-    "COLISEO",
-    "BALLENA",
-    "COLONIA",
-    "EGIPTO",
-    "ITALIA",
-    "CANADA",
-    "CONEJO",
-    "LLUVIA",
-    "CEBRA",
-    "VACA"
-  ],
   "2026-10-18": [
     "ANTARTIDA",
     "BOLIVIA",
@@ -643,5 +622,26 @@
     "TANGO",
     "CEBRA",
     "PERU"
+  ],
+  "2026-11-17": [
+    "MEDITERRANEO",
+    "ARCHIPIELAGO",
+    "BARILOCHE",
+    "GUATEMALA",
+    "CICLISMO",
+    "SATURNO",
+    "ECUADOR",
+    "OXIGENO",
+    "ARQUERO",
+    "BALLENA",
+    "PENAROL",
+    "MARATON",
+    "AFRICA",
+    "CANADA",
+    "HABANA",
+    "PASTA",
+    "QUESO",
+    "ROBOT",
+    "CAFE"
   ]
 }
