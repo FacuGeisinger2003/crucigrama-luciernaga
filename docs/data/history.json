@@ -1,24 +1,4 @@
 {
-  "2026-10-19": [
-    "COCODRILO",
-    "BICICLETA",
-    "OBELISCO",
-    "MARIPOSA",
-    "TELEFONO",
-    "CANCION",
-    "CABALLO",
-    "MUSCULO",
-    "CAPITAL",
-    "LONDRES",
-    "JIRAFA",
-    "SAHARA",
-    "GRECIA",
-    "CHILE",
-    "OVEJA",
-    "URANO",
-    "GOLF",
-    "MONO"
-  ],
   "2026-10-20": [
     "AUSTRALIA",
     "VENEZUELA",
@@ -643,5 +623,26 @@
     "OVEJA",
     "LIBRO",
     "TACO"
+  ],
+  "2026-11-19": [
+    "CERVANTES",
+    "CHOCOLATE",
+    "ORQUESTA",
+    "PACIFICO",
+    "AMAZONAS",
+    "CASTILLO",
+    "CANCION",
+    "ALFAJOR",
+    "IGUAZU",
+    "ATENAS",
+    "SEMANA",
+    "MESSI",
+    "TIGRE",
+    "SUSHI",
+    "PAMPA",
+    "GOLF",
+    "MAPA",
+    "VACA",
+    "SOL"
   ]
 }
