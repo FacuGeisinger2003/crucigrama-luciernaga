@@ -1,25 +1,4 @@
 {
-  "2026-10-26": [
-    "HAMBURGUESA",
-    "TELEVISION",
-    "PRIMAVERA",
-    "GRAVEDAD",
-    "CASTILLO",
-    "ORQUESTA",
-    "JUPITER",
-    "SAHARA",
-    "ESPANA",
-    "VIENTO",
-    "MEXICO",
-    "LIBRO",
-    "TENIS",
-    "URANO",
-    "JAPON",
-    "ROBOT",
-    "PATO",
-    "PUMA",
-    "MADRID"
-  ],
   "2026-10-27": [
     "INDEPENDENCIA",
     "CHIMICHURRI",
@@ -646,5 +625,26 @@
     "MONO",
     "CUBA",
     "URANO"
+  ],
+  "2026-11-26": [
+    "INDEPENDENCIA",
+    "COMPUTADORA",
+    "ACONCAGUA",
+    "NATACION",
+    "ALEMANIA",
+    "CARNAVAL",
+    "ARCOIRIS",
+    "ARBITRO",
+    "MEXICO",
+    "PULMON",
+    "HIGADO",
+    "EUROPA",
+    "ESPANA",
+    "QUITO",
+    "ASADO",
+    "JAPON",
+    "TENIS",
+    "ASIA",
+    "LIMA"
   ]
 }
